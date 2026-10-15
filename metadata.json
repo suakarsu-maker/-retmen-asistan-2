@@ -1,0 +1,8 @@
+{
+  "name": "Remix Öğretmen Asistanı Pro - MEB Eğitim \u0026 Planlama Portalı",
+  "description": "Öğretmenler için ders programı, MEB yıllık/günlük planlar, LaTeX ve PDF ders notları, Drive entegrasyonu, öğrenci rubrik ve ödev takibi, mevzuat danışmanı, kulüp ve rehberlik portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
